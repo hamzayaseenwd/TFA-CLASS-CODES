@@ -1,0 +1,62 @@
+.border{
+    border: 1px solid black;
+    border-radius: 25px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 4px;
+    
+    
+}
+
+.alkali-metal{
+    background-color: #ff77af ;
+}
+
+.alkaline-earth-metal{
+    background-color: #fb2cff ;
+}
+
+.transition-metals{
+    background-color: #7dc2ff;
+}
+
+.basic-metals{
+    background-color: #f9d50a ;
+}
+
+.semi-metals{
+    background-color: #02ff72 ;
+}
+
+.non-metals{
+    background-color: #396eea ;
+}
+
+.halogens{
+    background-color: #ffee00 ;
+}
+
+.nobel-gases{
+    background-color: #d38f09 ;
+}
+
+.lanthanide{
+    background-color: #b6ff50 ;
+}
+
+.actanide{
+    background-color: #f23030;
+    
+}
+
+.container h4{
+    font-size: small;
+}
+.container p{
+    font-size: xx-small;
+}
+.container table{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
